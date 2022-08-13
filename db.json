@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    { "phone": "+631234567899", "password": "12345678" },
+    { "phone": 2, "title": "Post 2" },
+    { "phone": 3, "title": "Post 3" }
+  ],
 }
